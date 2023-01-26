@@ -9,6 +9,11 @@ export default {
     src: 'https://github.com/lalakira123.png',
     alt: 'Laerte Akira',
   },
+  argTypes: {
+    src: {
+      type: 'string',
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
