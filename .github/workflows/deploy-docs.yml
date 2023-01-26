@@ -21,7 +21,8 @@ jobs:
 
       - run: npm run build 
         env: 
-          TURBO_TOKEN: WDDed0nvUTUj822M07rtVqDd
+          TURBO_TOKEN: 8gdZtFjKm6a60xokCDT3I8J6
+          TURBO_TEAM: lalakira
 
       - name: Deploy storybook
         working-directory: ./packages/docs
