@@ -1,0 +1,2 @@
+import{e as o,a as r}from"./index-c2b95b57.js";import{j as t}from"./jsx-runtime-1becbe17.js";import"./index-43ec82a8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-648f2948.js";const l={title:"Data Display/Tooltip",component:o,args:{"aria-label":"26 de Outubro - Indisponível",children:t(r,{children:"Hover Here"})}},m={},n=["Primary"];export{m as Primary,n as __namedExportsOrder,l as default};
+//# sourceMappingURL=Tooltip.stories-dcd2befa.js.map

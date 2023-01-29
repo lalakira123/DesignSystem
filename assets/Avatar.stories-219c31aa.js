@@ -1,0 +1,2 @@
+import{A as t}from"./index-c2b95b57.js";import"./index-43ec82a8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-648f2948.js";import"./jsx-runtime-1becbe17.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/lalakira123.png",alt:"Laerte Akira"},argTypes:{src:{type:"string"}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-219c31aa.js.map

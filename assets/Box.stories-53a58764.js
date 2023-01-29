@@ -1,0 +1,2 @@
+import{B as o,T as t}from"./index-c2b95b57.js";import{j as r,F as e}from"./jsx-runtime-1becbe17.js";import"./index-43ec82a8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-648f2948.js";const c={title:"Surfaces/Box",component:o,args:{children:r(e,{children:r(t,{children:"Testa elemento box"})})}},p={},x=["Primary"];export{p as Primary,x as __namedExportsOrder,c as default};
+//# sourceMappingURL=Box.stories-53a58764.js.map
